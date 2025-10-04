@@ -6,3 +6,5 @@ scribed by aim angles θ and φ. In flight, the motion of the ball is influenced
 drag and Magnus (due to spinning) forces. I examine the trajectories of various shots
 which are launched with different initial conditions to explore the optimal shooting angle for
 a free throw.
+
+Run project.m to get the results.
